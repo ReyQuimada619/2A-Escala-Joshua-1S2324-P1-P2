@@ -1,4 +1,4 @@
- // Motorcycle.java (Define the Motorcycle class with attributes and setters/getterspublic
+ // Motorcycle.java (Define the Motorcycle class with attributes and setters/getters
 class Motorcycle {
     private String name;
     private int startingAtSeconds;
