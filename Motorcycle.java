@@ -1,4 +1,5 @@
- public class Motorcycle {
+ // Motorcycle.java (Define the Motorcycle class with attributes and setters/getterspublic
+class Motorcycle {
     private String name;
     private int startingAtSeconds;
     private int powerSpeed;
@@ -36,5 +37,3 @@
         this.powerSpeed = powerSpeed;
     }
 }
-
-   
